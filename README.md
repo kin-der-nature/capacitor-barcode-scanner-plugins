@@ -1,0 +1,1 @@
+# capacitor-barcode-scanner-plugins
